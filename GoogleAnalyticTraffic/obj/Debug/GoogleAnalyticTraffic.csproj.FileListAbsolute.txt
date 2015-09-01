@@ -1,0 +1,7 @@
+c:\users\lpjoy\documents\visual studio 2013\Projects\GoogleAnalyticTraffic\GoogleAnalyticTraffic\obj\Debug\GoogleAnalyticTraffic.csprojResolveAssemblyReference.cache
+c:\users\lpjoy\documents\visual studio 2013\Projects\GoogleAnalyticTraffic\GoogleAnalyticTraffic\bin\Debug\GoogleAnalyticTraffic.dll
+c:\users\lpjoy\documents\visual studio 2013\Projects\GoogleAnalyticTraffic\GoogleAnalyticTraffic\bin\Debug\GoogleAnalyticTraffic.pdb
+c:\users\lpjoy\documents\visual studio 2013\Projects\GoogleAnalyticTraffic\GoogleAnalyticTraffic\bin\Debug\Newtonsoft.Json.dll
+c:\users\lpjoy\documents\visual studio 2013\Projects\GoogleAnalyticTraffic\GoogleAnalyticTraffic\bin\Debug\Newtonsoft.Json.xml
+c:\users\lpjoy\documents\visual studio 2013\Projects\GoogleAnalyticTraffic\GoogleAnalyticTraffic\obj\Debug\GoogleAnalyticTraffic.dll
+c:\users\lpjoy\documents\visual studio 2013\Projects\GoogleAnalyticTraffic\GoogleAnalyticTraffic\obj\Debug\GoogleAnalyticTraffic.pdb
